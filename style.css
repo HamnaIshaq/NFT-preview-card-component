@@ -97,7 +97,7 @@ img {
 
 .nft-card-link {
   color: var(--veryDarkBlueLine);
-  border: 1px solid var(--veryDarkBlueLine);
+  border-bottom: 1px solid var(--veryDarkBlueLine);
 }
 
 .nft-creator-container {
