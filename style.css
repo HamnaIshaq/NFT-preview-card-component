@@ -61,7 +61,7 @@ img {
   margin: 25px 0;
 }
 
-.h3--heading {
+.h1--heading {
   color: var(--white);
   font-size: 22px;
 }
@@ -124,7 +124,7 @@ img {
   cursor: pointer;
 }
 
-.h3--heading:hover {
+.h1--heading:hover {
   cursor: pointer;
   color: var(--cyan);
 }
