@@ -35,7 +35,7 @@ img {
   background-color: var(--veryDarkBlueCardBy);
   border-radius: 15px;
   padding: 20px;
-  width: 305px;
+  max-width: 305px;
   align-self: center;
   justify-content: center;
 }
